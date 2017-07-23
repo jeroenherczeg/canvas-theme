@@ -1,0 +1,22 @@
+{
+    "name": "jeroenherczeg/canvas-theme",
+    "description": "Theme for cnvs/canvas used at herczeg.be",
+    "keywords": ["canvas", "theme", "jeroen herczeg"],
+    "type": "canvas-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeroen Herczeg",
+            "email": "jeroen@herczeg.be"
+        }
+    ],
+    "extra": {
+        "canvas-theme": {
+            "title": "Herczeg",
+            "directories": {
+                "public": "public",
+                "views": "resources/views"
+            }
+        }
+    }
+}
